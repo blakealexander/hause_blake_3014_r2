@@ -1,0 +1,12 @@
+time of day welcome message =
+http://kuikie.com/snippet/48-22/php/date-time/php-display-morning-afternoon-or-evening-welcome-message/
+&
+https://stackoverflow.com/questions/8652502/run-code-depending-on-the-time-of-day
+
+users last login date = 
+https://www.w3schools.com/php/php_cookies.asp
+&
+https://www.php.net/manual/en/function.gmdate.php
+
+Account lockout after three attempts =
+http://forums.devnetwork.net/viewtopic.php?f=1&t=112913
