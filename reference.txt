@@ -1,12 +1,13 @@
-time of day welcome message =
-http://kuikie.com/snippet/48-22/php/date-time/php-display-morning-afternoon-or-evening-welcome-message/
+send email with password to newly created user. =
+https://www.w3schools.com/php/func_mail_mail.asp
 &
-https://stackoverflow.com/questions/8652502/run-code-depending-on-the-time-of-day
+https://www.daniweb.com/programming/web-development/threads/246739/send-email-after-successfully-registering-a-new-user
 
-users last login date = 
-https://www.w3schools.com/php/php_cookies.asp
+
+New users generated password is encrypted and stored in the
+database. = 
+https://www.php.net/manual/en/function.str-shuffle.php
 &
-https://www.php.net/manual/en/function.gmdate.php
-
-Account lockout after three attempts =
-http://forums.devnetwork.net/viewtopic.php?f=1&t=112913
+https://stackoverflow.com/questions/4356289/php-random-string-generator
+&
+http://www.neidl.net/technik/php-doku/function.str-shuffle.html
